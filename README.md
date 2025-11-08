@@ -9,13 +9,6 @@
 ## 🌐 Live Website
 **URL:** https://lokesh-soft-dev.github.io/Task-6_github-pages-website/
 
-## 📁 Project Structure
-Task-6_github-pages-website/
-├── index.html # Main website file
-├── styles.css # Additional styling
-└── README.md # Documentation
-
-
 ## 🚀 Deployment Process
 1. **Created** HTML/CSS website
 2. **Pushed** to GitHub repository
