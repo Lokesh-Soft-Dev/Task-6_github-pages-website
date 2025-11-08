@@ -8,6 +8,8 @@
 
 ## 🌐 Live Website
 **URL:** https://lokesh-soft-dev.github.io/Task-6_github-pages-website/
+---
+<img width="561" height="577" alt="Screenshot 2025-11-08 150903" src="https://github.com/user-attachments/assets/74bdc572-6f81-414b-9e10-e8c8cf1f5003" />
 
 ## 🚀 Deployment Process
 1. **Created** HTML/CSS website
